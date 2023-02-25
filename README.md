@@ -3,6 +3,8 @@
 
 ⚡Buscando do melhorar a mim mesmo.
 
+~~ ~ ~~
+
 🌱 I’m currently learning Laravel+PHP and Postgres, but I already know React typescript, HTML, CSS and SQL.
 
 ⚡Trying to improve myself.
