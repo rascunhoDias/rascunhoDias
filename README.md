@@ -1,4 +1,10 @@
 ### oi, bão? 👋
+🌱 Eu estou aprendendo Laravel+PHP e Postgress, mas eu ja conheço React typescript, HTML, CSS e SQL. 
+⚡Buscando do melhorar a mim mesmo.
+
+🌱 I’m currently learning Laravel+PHP and Postgres, but I already know React typescript, HTML, CSS and SQL.
+
+⚡Trying to improve myself.
 
 <!--
 **rascunhoDias/rascunhoDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
