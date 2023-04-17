@@ -1,11 +1,11 @@
 ### oi, bão? 👋
-🌱 Eu estou aprendendo Laravel+PHP e Postgress, mas eu ja conheço React typescript, HTML, CSS e SQL. 
+🌱 Eu tenho o objetivo de me tornar um futuro grande desenvolvedor front-end, já conhecer React typescript, HTML, CSS, mas continuo querendo aprender mais sobre ui e ux.
 
 ⚡Buscando do melhorar a mim mesmo.
 
 ~~ ~ ~~
 ### hi, sup? 👋
-🌱 I’m currently learning Laravel+PHP and Postgres, but I already know React typescript, HTML, CSS and SQL.
+🌱 I have the goal of becoming a future great front-end developer, I already know React typescript, HTML, CSS, but I keep wanting to learn more about ui and ux.
 
 ⚡Trying to improve myself.
 
